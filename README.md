@@ -3,7 +3,7 @@ Efficient Model Predictive Control Implementation
 
 The original algorithm can be found: https://www.researchgate.net/profile/Peter-Gibbens-2/publication/270872533_Efficient_Model_Predictive_Control_Algorithm_for_Aircraft/links/54bd90390cf27c8f2814bad5/Efficient-Model-Predictive-Control-Algorithm-for-Aircraft.pdf
 
-You can change the system provided with your own and test for convergenece of the Quadratic Optimization solver as well, using two QP algorithms
+You can change the system provided with your own and test for convergence of the Quadratic Optimization solver as well, using two QP algorithms
 
 Open main.m
 
